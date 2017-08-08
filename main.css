@@ -1,0 +1,28 @@
+body {
+    font-family: verdana, arial;
+    color: rgb(36, 36, 36);
+}
+
+.hide {
+    display: none
+}
+
+.items {
+    border: 1px solid rgb(178, 178, 178);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.div-btn {
+    border: 1px solid rgb(142, 142, 142);
+    width: 150px;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+.resultItem span,
+.resultItemSummary span {
+    font-style: italic;
+    font-weight: 600;
+}
